@@ -1,6 +1,61 @@
 [
 	{
   "type": "article-journal",
+  "container-title": "Journal of General Internal Medicine",
+  "container-title-short": "J GEN INTERN MED",
+  "DOI": "10.1007/s11606-025-10067-x",
+  "PMID": "41361041",
+  "title": "Cost-Effectiveness of Primary Prevention of Stroke in Type 2 Diabetes in the United States: A Microsimulation Analysis",
+  "URL": "https://doi.org/10.1007/s11606-025-10067-x",
+  "note": "Status: Online ahead of print",
+  "abstract": "We evaluated and compared the health impact and cost-effectiveness of improved implementation of guideline-recommended strategies for AIS prevention in patients with T2D in the United States using a microsimulation model (Michigan Model for Diabetes).",
+  "author": [
+    {
+      "family": "Ye",
+      "given": "Wen"
+    },
+    {
+      "family": "Jiang",
+      "given": "Xiaqing"
+    },
+    {
+      "family": "Li",
+      "given": "Jing"
+    },
+    {
+      "family": "Kuo",
+      "given": "Shihchen"
+    },
+    {
+      "family": "Becker",
+      "given": "Christopher J."
+    },
+    {
+      "family": "Herman",
+      "given": "William H."
+    },
+    {
+      "family": "Zhang",
+      "given": "Weizhou"
+    },
+    {
+      "family": "Morgenstern",
+      "given": "Lewis B."
+    },
+    {
+      "family": "Lisabeth",
+      "given": "Lynda D."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [2025, 12, 8]
+    ]
+  },
+  "keyword": "acute ischemic stroke, cost-effectiveness, prevention, type 2 diabetes"
+},
+	{
+  "type": "article-journal",
   "container-title": "Stroke",
   "DOI": "10.1161/STROKEAHA.126.055187",
   "issue": "0",
