@@ -1,5 +1,34 @@
 [
 	{
+  "type": "JOUR",
+  "title": "Cost-Effectiveness of Prehospital Delay Reduction Versus Primary Stroke Prevention in US Adults With Type 2 Diabetes",
+  "authors": [
+    "Ye, Wen",
+    "Becker, Christopher J.",
+    "Li, Jing",
+    "Kuo, Shihchen",
+    "Jiang, Xiaqing",
+    "Herman, William H.",
+    "Lisabeth, Lynda D.",
+    "Morgenstern, Lewis B."
+  ],
+  "journal": {
+    "full_name": "Stroke",
+    "abbreviation": "Stroke"
+  },
+  "publication_details": {
+    "volume": "0",
+    "issue": "0",
+    "publisher": "American Heart Association"
+  },
+  "identifiers": {
+    "doi": "10.1161/STROKEAHA.126.055187",
+    "url": "https://doi.org/10.1161/STROKEAHA.126.055187"
+  },
+  "notes": "doi: 10.1161/STROKEAHA.126.055187",
+  "access_date": "2026-05-14"
+},
+	{
 		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
 		"type": "article-journal",
 		"container-title": "Journal of Stroke and Cerebrovascular Diseases",
