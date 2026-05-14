@@ -1,32 +1,57 @@
 [
 	{
-  "type": "JOUR",
+  "type": "article-journal",
+  "container-title": "Stroke",
+  "DOI": "10.1161/STROKEAHA.126.055187",
+  "issue": "0",
+  "note": "publisher: American Heart Association",
   "title": "Cost-Effectiveness of Prehospital Delay Reduction Versus Primary Stroke Prevention in US Adults With Type 2 Diabetes",
-  "authors": [
-    "Ye, Wen",
-    "Becker, Christopher J.",
-    "Li, Jing",
-    "Kuo, Shihchen",
-    "Jiang, Xiaqing",
-    "Herman, William H.",
-    "Lisabeth, Lynda D.",
-    "Morgenstern, Lewis B."
+  "URL": "https://doi.org/10.1161/STROKEAHA.126.055187",
+  "volume": "0",
+  "author": [
+    {
+      "family": "Ye",
+      "given": "Wen"
+    },
+    {
+      "family": "Becker",
+      "given": "Christopher J."
+    },
+    {
+      "family": "Li",
+      "given": "Jing"
+    },
+    {
+      "family": "Kuo",
+      "given": "Shihchen"
+    },
+    {
+      "family": "Jiang",
+      "given": "Xiaqing"
+    },
+    {
+      "family": "Herman",
+      "given": "William H."
+    },
+    {
+      "family": "Lisabeth",
+      "given": "Lynda D."
+    },
+    {
+      "family": "Morgenstern",
+      "given": "Lewis B."
+    }
   ],
-  "journal": {
-    "full_name": "Stroke",
-    "abbreviation": "Stroke"
+  "accessed": {
+    "date-parts": [
+      [2026, 5, 14]
+    ]
   },
-  "publication_details": {
-    "volume": "0",
-    "issue": "0",
-    "publisher": "American Heart Association"
-  },
-  "identifiers": {
-    "doi": "10.1161/STROKEAHA.126.055187",
-    "url": "https://doi.org/10.1161/STROKEAHA.126.055187"
-  },
-  "notes": "doi: 10.1161/STROKEAHA.126.055187",
-  "access_date": "2026-05-14"
+  "issued": {
+    "date-parts": [
+      2026
+    ]
+  }
 },
 	{
 		"id": "http://zotero.org/users/local/W4EYSEhQ/items/35DI8H8Q",
